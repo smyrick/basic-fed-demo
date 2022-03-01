@@ -1,0 +1,16 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "@apollo/gateway": "^0.48.0",
+    "@apollo/subgraph": "^0.3.0",
+    "@graphql-tools/utils": "^8.6.1",
+    "apollo-server": "^3.6.3",
+    "graphql": "^16.3.0",
+    "nodemon": "^2.0.12"
+  }
+}
